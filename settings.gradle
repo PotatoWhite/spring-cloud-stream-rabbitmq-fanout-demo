@@ -1,0 +1,3 @@
+rootProject.name = 'spring-cloud-stream-rabbitmq-fanout-demo'
+
+include 'simple-subscriber', 'another-simple-subscriber', 'simple-publisher'
